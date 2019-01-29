@@ -1,1 +1,3 @@
-test
+class StudentsController < ApplicationController
+  
+end
